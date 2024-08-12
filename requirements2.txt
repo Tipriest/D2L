@@ -1,0 +1,4 @@
+torch==1.13.0
+torchvision
+d2l==0.17.6
+jupyter
