@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./competions/um_MCTSVarStrength/data/um-game-playing-strength-of-mcts-variants"
+    ]
+}

@@ -1,2 +1,3 @@
 pytorch/data/
 submission.csv
+competions/um_MCTSVarStrength/data/*.csv
